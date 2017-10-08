@@ -41,6 +41,20 @@ for i in range(0,width*height):
 	if col == width-1:
 		print '\n'
 
+#lets start messing with time
+#[YYYY]-[MM]-[DD]T[HH]:[MM]:[SS]
+year="2017"
+month="08"
+date="25"
+hour="23"
+minute="00"
+seconds="00"
+#might be easier to convert that to unix
+#web says its:
+unixTime = 0
+#https://www.epochconverter.com/
+#https://docs.python.org/2/library/time.html
+
 #https://stackoverflow.com/questions/12965203/how-to-get-json-from-webpage-into-python-script
 #i need to just add in time to get historical data
 #https://darksky.net/dev/docs/time-machine
