@@ -1,5 +1,7 @@
 import urllib, json
 import math
+import time
+import calendar
 
 online = False
 ####################################
@@ -7,8 +9,8 @@ key = ""
 lon = 95.3698
 lat = 29.7604
 maxDegree = 1.0 #about 69 miles 111 kilometers
-width = 16
-height = 10
+width = 128
+height = 128
 #lat is north and west. higher vales are more north. 0.001 is like a avenue
 #lon is east and south. higher values are west.
 #i need to get an aspect ratio to determine our grid
@@ -27,29 +29,38 @@ sx = 1/float(width)
 sy = 1/float(height)
 
 #time to do some more grids, how many times do i have to do this
-for i in range(0,width*height):
-	row = math.floor(i/width)
-	col = float(i%width)
+if online:
+	for i in range(0,width*height):
+		row = math.floor(i/width)
+		col = float(i%width)
 
-	stepx = sx*col
-	stepy = sy*row
+		stepx = sx*col
+		stepy = sy*row
 
-	sample_lon = round((x-stepx)*10000.0)/10000.0
-	sample_lat = round((y-stepy)*10000.0)/10000.0
-	
-	print str(row)+":"+str(col)+"_"+str(sample_lat)+":"+str(sample_lon)
-	if col == width-1:
-		print '\n'
+		sample_lon = round((x-stepx)*10000.0)/10000.0
+		sample_lat = round((y-stepy)*10000.0)/10000.0
+		
+		print str(row)+":"+str(col)+"_"+str(sample_lat)+":"+str(sample_lon)
+		if col == width-1:
+			print '\n'
 
 #lets start messing with time
 #[YYYY]-[MM]-[DD]T[HH]:[MM]:[SS]
-year="2017"
+year="17"
 month="08"
 date="25"
 hour="23"
 minute="00"
 seconds="00"
+
+fps = 0.1
+timeslices=5*60*fps
+print "5 minutes at "+str(fps)+" fps is: "+str(timeslices)+" time slice queries.\n"
+print "multiplied by "+str(width*height)+" for a "+str(width)+"x"+str(height)+" grid.\n"
+print "which will cost: $"+str( ((timeslices*width*height)-1000)*0.0001 )+"\n"
 #might be easier to convert that to unix
+# time difference of houston from gmt
+timezoneDifference = -5
 #web says its:
 unixTime = 0
 #https://www.epochconverter.com/
