@@ -18,11 +18,13 @@ height = 31
 #get width samples and height samples
 #as well as the max degrees will fit the largest w/h dime
 ####################################
+print "---------------------------"
 
 #get the key
 file = open('key.txt', 'r') 
 key = file.read()
 print key
+print "---------------------------"
 
 aspect = height/float(width)
 
@@ -52,9 +54,19 @@ print "which will cost: $"+str( ((timeslices*width*height)-1000)*0.0001 )
 timezoneDifference = -5*3600
 #https://www.epochconverter.com/
 #https://docs.python.org/2/library/time.html
+print "---------------------------"
+#make the parent directory
+parentDirectory=str(int(time.time()))
+if not os.path.exists(parentDirectory):
+	os.makedirs(parentDirectory)
+	print "made directory: "+parentDirectory
+
+
 counter = 0
 print "---------------------------"
 for i in range(0,int(timeslices)):
+	#print "Time Slice "+str(counter)
+	print "---------------------------"
 	print "----start:"+str(counter)
 	timestr = str(month)+" "+str(date)+" "+str(hour)+":"+str(minute)+":"+str(seconds)+" "+str(year)
 	unixTime = calendar.timegm(time.strptime(timestr, "%m %d %H:%M:%S %Y"))
@@ -62,7 +74,7 @@ for i in range(0,int(timeslices)):
 	print "date: "+timestr
 	print "epoch time: "+str(unixTime)
 
-	directory="slice_"+str(counter)
+	directory=parentDirectory+"/slice_"+str(counter)
 	if not os.path.exists(directory):
 		os.makedirs(directory)
 		print "made directory: "+directory
@@ -93,7 +105,10 @@ for i in range(0,int(timeslices)):
 
 			#https://stackoverflow.com/questions/5214578/python-print-string-to-text-file
 			#with open("_"+str(lat)+"_"+str(lon)+".txt", "w") as text_file:
-			with open(diretory+"/coords_"+str(lat)+"_"+str(lon)+"_"+str(counter)+".txt", "w") as text_file:
+			with open(directory+"/"+str(i)+"_coords_"+str(sample_lat)+"_"+str(sample_lon)+".txt", "w") as text_file:
 			    text_file.write(str(data))
 
 			#print data
+			print "-"+str(i)+"----written" 
+
+	counter=counter+1
