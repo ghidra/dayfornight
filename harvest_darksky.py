@@ -106,7 +106,8 @@ for i in range(0,int(timeslices)):
 			#https://stackoverflow.com/questions/5214578/python-print-string-to-text-file
 			#with open("_"+str(lat)+"_"+str(lon)+".txt", "w") as text_file:
 			with open(directory+"/"+str(i)+"_coords_"+str(sample_lat)+"_"+str(sample_lon)+".txt", "w") as text_file:
-			    text_file.write(str(data))
+			    json.dump(data,text_file)
+			    #text_file.write(str(data))
 
 			#print data
 			print "-"+str(i)+"----written" 
