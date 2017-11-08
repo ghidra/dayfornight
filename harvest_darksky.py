@@ -9,11 +9,11 @@ online = True
 key = ""
 lon = 95.3698
 lat = 29.7604
-maxDegree = 1.0 #about 69 miles 111 kilometers
+maxDegree = 10.0 #about 69 miles 111 kilometers
 width = 31
 height = 31
-#lat is north and west. higher vales are more north. 0.001 is like a avenue
-#lon is east and south. higher values are west.
+#lat is north and south. higher vales are more north. 0.001 is like a avenue
+#lon is east and west. higher values are west.
 #i need to get an aspect ratio to determine our grid
 #get width samples and height samples
 #as well as the max degrees will fit the largest w/h dime
@@ -39,7 +39,7 @@ sy = 1/float(height)
 #time
 year="2017"
 month="08"
-date="25"
+date="29"
 hour="23"
 minute="00"
 seconds="00"
