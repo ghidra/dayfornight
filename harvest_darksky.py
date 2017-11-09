@@ -9,7 +9,7 @@ online = True
 key = ""
 lon = 95.3698
 lat = 29.7604
-maxDegree = 10.0 #about 69 miles 111 kilometers
+maxDegree = 5.0 #about 69 miles 111 kilometers
 width = 31
 height = 31
 #lat is north and south. higher vales are more north. 0.001 is like a avenue
@@ -33,13 +33,13 @@ x = lon+(maxDegree*0.5)
 y = lat+(maxDegree*aspect*0.5)
 
 #scale between each node to fit max degrees of map in
-sx = 1/float(width)
-sy = 1/float(height)
+sx = (1/float(width))*maxDegree
+sy = (1/float(height))*maxDegree
 	
 #time
 year="2017"
 month="08"
-date="29"
+date="25"
 hour="23"
 minute="00"
 seconds="00"
@@ -56,10 +56,10 @@ timezoneDifference = -5*3600
 #https://docs.python.org/2/library/time.html
 print "---------------------------"
 #make the parent directory
-parentDirectory=str(int(time.time()))
-if not os.path.exists(parentDirectory):
-	os.makedirs(parentDirectory)
-	print "made directory: "+parentDirectory
+# parentDirectory=str(int(time.time()))
+# if not os.path.exists(parentDirectory):
+# 	os.makedirs(parentDirectory)
+# 	print "made directory: "+parentDirectory
 
 
 counter = 0
@@ -74,7 +74,12 @@ for i in range(0,int(timeslices)):
 	print "date: "+timestr
 	print "epoch time: "+str(unixTime)
 
-	directory=parentDirectory+"/slice_"+str(counter)
+	pdirectory=str(unixTime)
+	if not os.path.exists(pdirectory):
+		os.makedirs(pdirectory)
+		print "made directory: "+pdirectory
+
+	directory=str(unixTime)+"/slice_"+str(counter)#parentDirectory
 	if not os.path.exists(directory):
 		os.makedirs(directory)
 		print "made directory: "+directory
@@ -111,5 +116,7 @@ for i in range(0,int(timeslices)):
 
 			#print data
 			print "-"+str(i)+"----written" 
+		else:
+			print str(sample_lat)+","+str(sample_lon)
 
 	counter=counter+1

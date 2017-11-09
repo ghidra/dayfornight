@@ -1,0 +1,650 @@
+FRIENDSWOOD                  GALVESTON                        56.00
+29.50  -95.20
+
+3 ENE SANTA FE               GALVESTON                        54.77
+29.39  -95.05
+
+2 WSW BUNKER HILL VILLAG     HARRIS                           54.00
+29.74  -95.57
+
+3 S LEAGUE CITY              GALVESTON                        52.87
+29.43  -95.11
+
+2 NW WEBSTER                 HARRIS                           52.30
+29.55  -95.14
+
+2 E ELLINGTON FIELD          HARRIS                           52.00
+29.60  -95.12
+
+4 S LEAGUE CITY              GALVESTON                        51.62
+29.43  -95.11
+
+2 NNW FRIENDSWOOD            BRAZORIA            105          50.04
+29.54  -95.22
+
+0.2 E DAYTON                 LIBERTY             TX-LR-14     49.31
+30.04  -94.89
+
+2 S WEBSTER                  GALVESTON           110          48.20
+29.50  -95.12
+
+2 SSE NASSAU BAY             GALVESTON                        47.86
+29.51  -95.08
+
+2 E FRIENDSWOOD              HARRIS              110          47.40
+29.50  -95.16
+
+4.40 WNW PASADENA            HARRIS              TX-HRR-9     45.74
+29.68  -95.22
+
+3 W LEAGUE CITY              GALVESTON                        45.34
+29.48  -95.16
+
+2 SSE HIGHLANDS              HARRIS              BATT2        45.10
+29.79  -95.04
+
+4.0 SSW SOUTH HOUSTON        HARRIS              TX-HRR-3     44.91
+29.60  -95.25
+
+1 NW SOUTH HOUSTON           HARRIS              320          44.88
+29.67  -95.24
+
+3 NNW NASSAU BAY             HARRIS              250          44.70
+29.58  -95.10
+
+1 NW SOUTH HOUSTON           HARRIS              320          44.40
+29.67  -95.24
+
+3 NNW PASADENA               HARRIS                           44.35
+29.70  -95.18
+
+2.5 NNE FRIENDSWOOD          HARRIS              TX-HRR-3     44.05
+29.54  -95.18
+
+2 ESE FRIENDSWOOD            GALVESTON           130          44.00
+29.49  -95.16
+
+NWS DICKINSON                GALVESTON           HGX          43.92
+29.47  -95.08
+
+2 NW DICKINSON               GALVESTON           HGX          43.92
+29.47  -95.08
+
+2 NW NASSAU BAY              HARRIS                           43.68
+29.56  -95.11
+
+0.4 NW WEBSTER               HARRIS              TX-HRR-2     43.32
+29.53  -95.12
+
+1 NW LIBERTY                 LIBERTY             4100         43.24
+30.05  -94.82
+
+1 NW NASSAU BAY              HARRIS              JSC B30      42.99
+29.55  -95.10
+
+1 N NASSAU BAY               HARRIS                           42.99
+29.55  -95.09
+
+2 NW BAYTOWN                 HARRIS              1540         42.90
+29.77  -95.00
+
+4 E BAYTOWN                  HARRIS              410586       42.72
+29.74  -94.97
+
+I-10/I-610 EAST              HARRIS              4810         42.52
+29.77  -95.27
+
+3.0 S SOUTH HOUSTON          HARRIS              TX-HRR-1     42.24
+29.61  -95.23
+
+4 NNE SOUTH HOUSTON          HARRIS              940          42.10
+29.70  -95.20
+
+2 SSW MONT BELVIEU           CHAMBERS            1725         42.00
+29.82  -94.90
+
+2 NW I-45/I-610 SOUTH        HARRIS              3490         41.92
+29.72  -95.33
+
+1 N LIBERTY                  LIBERTY             LRYT2        41.75
+30.05  -94.80
+
+2 SE LA PORTE                HARRIS              620          41.40
+29.65  -95.03
+
+4 W TEXAS CITY               GALVESTON                        41.00
+29.40  -95.02
+
+1.60 NNW WEBSTER             HARRIS              TX-HRR-2     40.93
+29.55  -95.13
+
+4.10 WNW TAYLOR LAKE VIL     HARRIS              TX-HRR-9     40.91
+29.59  -95.12
+
+2 ENE JACINTO CITY           HARRIS              1610         40.60
+29.77  -95.21
+
+0.5 SSE BACLIFF              GALVESTON           TX-GV-44     40.49
+29.50  -94.99
+
+5.60 NNW MISSION BEND        HARRIS              TX-HRR-2     40.30 I
+29.76  -95.70
+
+1 SE FRIENDSWOOD             GALVESTON           TX-GV-63     40.12
+29.50  -95.19
+
+8314 N HIGH ISLAND           HARRIS                           40.12
+29.55   95.08
+
+1.70 W CLOVERLEAF            HARRIS              TX-HRR-1     39.92
+29.78  -95.20
+
+1 SSE PASADENA               HARRIS                           39.75
+29.64  -95.15
+
+4.0 ENE PEARLAND             HARRIS              TX-HRR-1     39.66
+29.57  -95.21
+
+ELLINGTON FIELD              HARRIS                           39.23
+29.60  -95.16
+
+1 SW ELLINGTON FIELD         HARRIS                           39.23
+29.59  -95.17
+
+2 SE FIRST COLONY            FORT BEND                        39.17
+29.55  -95.58
+
+1.5 NNW MONT BELVIEU         CHAMBERS            TX-CHM-8     39.13
+29.87  -94.89
+
+1 ENE JACINTO CITY           HARRIS              820          39.10
+29.77  -95.23
+
+2 SE CLOVERLEAF              HARRIS              1420         38.90
+29.77  -95.15
+
+4 S HUMBLE                   HARRIS                           38.88
+29.93  -95.26
+
+5 N I-10/I-610 EAST          HARRIS              1675         38.20
+29.84  -95.28
+
+2 WNW KINGWOOD               HARRIS                           37.64
+30.06  -95.22
+
+2 W CROSBY                   HARRIS              1840         37.50
+29.91  -95.09
+
+3.0 WSW WALLER               WALLER              TX-WL-12     37.23
+30.04  -95.98
+
+1 NE HOUSTON/HOBBY AIRPO     HARRIS              HOU          37.01
+29.76  -95.39
+
+5.20 E KATY                  HARRIS              TX-HRR-2     36.70
+29.79  -95.74
+
+2.90 NE RICHMOND             FORT BEND           TX-FB-18     36.56
+29.61  -95.73
+
+6 WNW MISSION BEND           FORT BEND                        36.50
+29.73  -95.75
+
+3.60 S CLEVELAND             LIBERTY             TX-LR-13     36.42
+30.29  -95.08
+
+0.5 SE SUGAR LAND            FORT BEND           TX-FB-5      36.36
+29.61  -95.61
+
+1 SSW ADDICKS                HARRIS              2010         36.30
+29.76  -95.65
+
+3.40 NE RICHMOND             FORT BEND           TX-FB-17     36.28
+29.61  -95.72
+
+3.90 NNW WEBSTER             HARRIS              TX-HRR-2     36.26
+29.58  -95.14
+
+1.40 NE HOUSTON              HARRIS              TX-HRR-1     36.24
+29.78  -95.37
+
+4.40 WSW BUNKER HILL VIL     HARRIS              TX-HRR-2     35.20
+29.73  -95.60
+
+2 NNW I-45/I-610 SOUTH       HARRIS              410          35.20
+29.72  -95.31
+
+3 NNW I-45/I-610 NORTH       HARRIS              570          35.00
+29.84  -95.40
+
+4 N BUSH-INTERCONTINENTA     HARRIS              1110         34.90
+30.03  -95.33
+
+1.0 NNE KATY                 HARRIS              TX-HRR-1     34.55
+29.81  -95.81
+
+1 W SUGAR LAND               FORT BEND           TX-FB-12     34.51
+29.61  -95.62
+
+5.70 NNW MISSION BEND        HARRIS              TX-HRR-2     34.46
+29.76  -95.70
+
+1 S PEARLAND/ CLOVER FIE     BRAZORIA            LVJ          34.43
+29.55  -95.28
+
+2 SSW I-10/I-610 EAST        HARRIS              2210         34.40
+29.74  -95.29
+
+1 ESE SUGAR LAND             FORT BEND           4140         34.36
+29.61  -95.60
+
+1.6 NE FRIENDSWOOD           HARRIS              TX-HRR-1     34.33
+29.52  -95.18
+
+9.30 NE KATY                 HARRIS              TX-HRR-2     34.03
+29.89  -95.71
+
+1.6 SW ALVIN                 BRAZORIA            TX-BRZ-1     33.60
+29.41  -95.26
+
+4.4 NNE RICHMOND             FORT BEND           TX-FB-51     33.37
+29.63  -95.73
+
+1 ENE ADDICKS                HARRIS              2110         33.20
+29.79  -95.62
+
+0.4 WNW WEST UNIVERSITY      HARRIS              TX-HRR-1     32.82
+29.71  -95.44
+
+0.8 N MISSION BEND           HARRIS              TX-HRR-1     32.54
+29.70  -95.66
+
+2.10 NNE HOUSTON             HARRIS              TX-HRR-2     32.22
+29.79  -95.37
+
+3.90 S KINGWOOD              HARRIS              TX-HRR-1     32.19
+30.00  -95.19
+
+4.4 W PEARLAND               BRAZORIA            TX-BRZ-2     32.00
+29.55  -95.35
+
+3 N HUFFMAN                  HARRIS              1940         31.80
+30.06  -95.10
+
+2.10 SSW HOUSTON             HARRIS              TX-HRR-2     31.76
+29.73  -95.40
+
+1 S MEYERLAND                HARRIS              HWET2        31.31
+29.66  -95.47
+
+5 ESE HOUSTON/BUSH INTER     HARRIS              IAH          31.26
+29.76  -95.39
+
+2.10 SSW CONROE              MONTGOMERY          TX-MNG-6     31.22
+30.29  -95.48
+
+6.90 NNW BROOKSHIRE          WALLER              TX-WL-9      31.13
+29.87  -96.00
+
+7.10 WSW SPRING              HARRIS              TX-HRR-1     31.12
+30.02  -95.49
+
+4.60 NW JERSEY VILLAGE       HARRIS              TX-HRR-1     31.01
+29.93  -95.62
+
+5.0 S CLEVELAND              LIBERTY             TX-LR-10     30.65
+30.27  -95.08
+
+8219 NNW DAISETTA            WASHINGTON                       30.58
+30.13   96.52
+
+1.1 NNW HEDWIG VILLAGE       HARRIS                           30.26
+29.77  -95.52
+
+0.9 WNW KINGWOOD             HARRIS              TX-HRR-1     29.97
+30.06  -95.20
+
+3.60 SSE OAKHURST            SAN JACINTO         TX-SJ-12     29.82
+30.69  -95.29
+
+3 S OAK RIDGE NORTH          HARRIS              1050         29.40
+30.10  -95.44
+
+2.30 SE RICHMOND             FORT BEND           TX-FB-42     29.36
+29.55  -95.74
+
+7.20 SSE TOMBALL             HARRIS              TX-HRR-2     28.94
+29.99  -95.57
+
+3.60 NNW BUNKER HILL VIL     HARRIS              TX-HRR-2     28.93
+29.81  -95.56
+
+1.80 E KINGWOOD              HARRIS              TX-HRR-3     28.88
+30.05  -95.16
+
+1 E TEXAS CITY               GALVESTON           PUMPSTNB     28.84
+29.40  -94.95
+
+2.70 NW SPRING VALLEY        HARRIS              TX-HRR-5     28.73
+29.81  -95.54
+
+3 SSE THE WOODLANDS          MONTGOMERY                       28.50
+30.12  -95.47
+
+8.4 NE GALVESTON             GALVESTON           TX-GV-54     28.14
+29.31  -94.79
+
+3.20 ESE CYPRESS             HARRIS              TX-HRR-7     27.83
+29.95  -95.65
+
+4.6 SE RICHMOND              FORT BEND           TX-FB-22     27.70
+29.53  -95.71
+
+3 ESE JERSEY VILLAGE         HARRIS              HNHT2        27.61
+29.87  -95.53
+
+3 N HOOKS AIRPORT            HARRIS              1320         27.20
+30.10  -95.55
+
+2.70 ENE TOMBALL             HARRIS              TX-HRR-1     27.19
+30.11  -95.57
+
+5 W BROOKSHIRE               WALLER              4610         27.16
+29.77  -96.04
+
+4.2 W BELLAIRE               HARRIS              TX-HRR-1     27.07
+29.70  -95.53
+
+5 SE HOUSTON/ D. W. HOOK     HARRIS              DWH          27.01
+30.06  -95.55
+
+2.80 S MAGNOLIA              MONTGOMERY          TX-MNG-5     26.93
+30.16  -95.75
+
+11.50 WSW HUNTSVILLE         WALKER              TX-WK-3      26.20
+30.64  -95.73
+
+7 E PINEHURST                MONTGOMERY                       26.20
+30.19  -95.58
+
+7.2 S NEW ULM                COLORADO            TX-CLR-6     25.91
+29.78  -96.49
+
+7.10 ESE HUNTSVILLE          WALKER              TX-WK-26     25.89
+30.67  -95.44
+
+6.40 NE GALVESTON            GALVESTON           TX-GV-18     25.85
+29.29  -94.81
+
+1.40 WNW THE WOODLANDS       MONTGOMERY          TX-MNG-8     25.66
+30.16  -95.51
+
+5.1 S NEW ULM                COLORADO            TX-CLR-1     25.60
+29.81  -96.49
+
+8.20 WSW BRENHAM             WASHINGTON          TX-WA-21     25.41
+30.11  -96.52
+
+5.80 NW THE WOODLANDS        MONTGOMERY          TX-MNG-3     24.82
+30.21  -95.56
+
+3.10 SSW WASHINGTON          WASHINGTON          TX-WA-12     24.74
+30.28  -96.17
+
+0.4 NE BELLVILLE             AUSTIN              TX-AS-4      24.66
+29.94  -96.25
+
+0.1 ENE NEW ULM              AUSTIN              TX-AS-2      24.13
+29.89  -96.49
+
+2.80 WSW HUNTSVILLE          WALKER              TX-WK-5      23.89
+30.69  -95.59
+
+0.6 SSE ONALASKA             POLK                TX-PL-3      23.75
+30.79  -95.11
+
+1.30 SSE HUNTSVILLE          WALKER              TX-WK-18     23.68
+30.69  -95.54
+
+3.80 N CAT SPRING            AUSTIN              TX-AS-12     23.33
+29.89  -96.33
+
+1.0 WNW SAN FELIPE           AUSTIN              TX-AS-6      23.29
+29.80  -96.12
+
+1.9 NNE SEALY                AUSTIN              TX-AS-7      23.28
+29.79  -96.14
+
+0.9 ENE BELLVILLE            AUSTIN              TX-AS-18     23.15
+29.95  -96.24
+
+WASHINGTON STATE PARK        WASHINGTON          419491       23.12
+30.32  -96.16
+
+WASHINGTON SP                WASHINGTON          WAST2        23.10
+30.32  -96.16
+
+CARMINE                      WASHINGTON          TX-WA-15     22.98
+30.14  -96.69
+
+1.6 S DODGE                  WALKER              TX-WK-15     22.86
+30.65  -95.40
+
+2 SSW GALVESTON SCHOLES      GALVESTON           GLS          22.84
+29.20  -94.90
+
+3 SE SUGARLAND REGIONAL      FORT BEND           SGR          22.67
+29.60  -95.70
+
+0.7 E CONROE                 MONTGOMERY          TX-MNG-3     22.55
+30.32  -95.46
+
+0.6 WSW ONALASKA             POLK                TX-PL-27     22.39
+30.80  -95.11
+
+2.0 WNW RIVERSIDE            WALKER              TX-WK-21     22.30
+30.85  -95.43
+
+8.40 W LIVINGSTON            POLK                TX-PL-18     22.20
+30.70  -95.08
+
+10.0 N HEMPSTEAD             GRIMES              TX-WA-12     21.87
+30.23  -96.08
+
+1.1 NE WALLIS                AUSTIN              TX-AS-17     21.83
+29.64  -96.05
+
+0.3 WNW SEALY                AUSTIN              TX-AS-5      21.74
+29.77  -96.16
+
+4.40 ENE BURTON              WASHINGTON          TX-WA-22     21.57
+30.20  -96.53
+
+4 SW CONROE/ MONTGOMERY      MONTGOMERY          XO           21.44
+30.32  -95.47
+
+3.2 WSW COLUMBUS             COLORADO            TX-CLR-9     21.39
+29.68  -96.60
+
+6.90 SSW BURTON              WASHINGTON          TX-WA-1      21.27
+30.08  -96.64
+
+2.80 N THE WOODLANDS         MONTGOMERY          TX-MNG-2     21.21
+30.19  -95.49
+
+2.30 S HUNTSVILLE            WALKER              TX-WK-25     21.19
+30.67  -95.55
+
+1.80 N CHAPPELL HILL         WASHINGTON          TX-WA-10     21.13
+30.20  -96.30
+
+3.60 NNW HUNTSVILLE          WALKER              TX-WK-12     20.98
+30.75  -95.58
+
+1.3 E ANGLETON               BRAZORIA            TX-BRZ-2     20.97
+29.16  -95.41
+
+4 ENE TEXAS CITY             GALVESTON           PMPSTNA      20.97
+29.42  -94.89
+
+4.80 NNW HUNTSVILLE          WALKER              TX-WK-13     20.92
+30.77  -95.58
+
+1 ENE COLUMBUS               COLORADO            CBST2        20.90
+29.70  -96.54
+
+2.60 NE MONTGOMERY           MONTGOMERY          TX-MNG-1     20.86
+30.41  -95.66
+
+7.10 W BRENHAM               WASHINGTON          TX-WA-25     20.64
+30.15  -96.52
+
+7.60 S EAST BERNARD          WHARTON             TX-WH-18     20.47
+29.41  -96.06
+
+3.80 SE PINEHURST            MONTGOMERY          TX-MNG-3     20.16
+30.14  -95.66
+
+10.0 W LIVINGSTON            POLK                TX-PL-28     20.15
+30.70  -95.10
+
+4.50 SW COLLEGE STATION      BRAZOS              TX-BZS-1     19.98
+30.55  -96.36
+
+3 WSW HUNTSVILLE MUNICIP     WALKER              UTS          19.73
+30.70  -95.60
+
+0.4 N MONTGOMERY             MONTGOMERY          TX-MNG-2     19.66
+30.39  -95.69
+
+1.40 NNW BRENHAM             WASHINGTON          TX-WA-18     19.08
+30.17  -96.41
+
+8.0 E BRENHAM                WASHINGTON          TX-WA-6      18.99
+30.15  -96.26
+
+6.40 ENE COLLEGE STATION     BRAZOS              TX-BZS-4     18.87
+30.63  -96.21
+
+8.60 SSW WASHINGTON          WASHINGTON          TX-WA-14     18.85
+30.20  -96.21
+
+3.10 NE WHARTON              WHARTON             TX-WH-9      18.80
+29.34  -96.06
+
+9.90 N BRENHAM               WASHINGTON          TX-WA-17     18.80
+30.30  -96.40
+
+10.4 SSW IOLA                GRIMES              TX-GM-7      18.68
+30.63  -96.14
+
+1.0 NW CHAPPELL HILL         WASHINGTON          TX-WA-9      18.54
+30.22  -96.31
+
+7.0 W MOSCOW                 POLK                TX-PL-32     18.49
+30.91  -94.94
+
+4 S ANGLETON/ BRAZORIA C     BRAZORIA            LBX          18.48
+29.16  -95.43
+
+13.4 NW LIVINGSTON           POLK                TX-PL-35     18.48
+30.84  -95.10
+
+8344 N HIGH ISLAND           MATAGORDA                        18.26
+28.97   96.01
+
+0.8 W COLLEGE STATION        BRAZOS              TX-BZS-1     17.72
+30.59  -96.33
+
+1.0 WNW COLLEGE STATION      BRAZOS              TX-BZA-9     17.30
+30.60  -96.33
+
+0.7 E BRENHAM                WASHINGTON          TX-WA-24     17.27
+30.15  -96.39
+
+2 NNW FREEPORT               BRAZORIA            DOWT2        17.01
+28.98  -95.38
+
+BRENHAM                      WASHINGTON          411048       16.94
+30.15  -96.40
+
+8196 NNW MOSS HILL           BURLESON                         16.82
+30.32   96.53
+
+0.7 ESE POINT BLANK          SAN JACINTO         TX-SJ-11     16.55
+30.74  -95.21
+
+2.50 SSE BRYAN               BRAZOS              TX-BZS-1     16.50
+30.63  -96.35
+
+8167 N SEGNO                 BURLESON                         16.23
+30.42   96.54
+
+3.80 SSW BRYAN               BRAZOS              TX=BZS-8     16.21
+30.61  -96.39
+
+2.6 WSW GALVESTON            GALVESTON           TX-GV-65     16.10
+29.21  -94.93
+
+4 E COLLEGE STATION/EAST     BRAZOS              CLL          15.74
+30.60  -96.31
+
+8.70 NW BRENHAM              WASHINGTON          TX-WA-27     15.38
+30.24  -96.50
+
+2.90 E TRINITY               TRINITY             TX-TT-6      15.18
+30.94  -95.32
+
+4.90 SSE EL CAMPO            WHARTON             TX-WH-2      15.16
+29.12  -96.25
+
+1 E NORTH CLEVELAND          LIBERTY             CLVT2        14.90
+30.36  -95.09
+
+3.50 S MADISONVILLE          MADISON             TX-MDS-2     14.36
+30.90  -95.91
+
+SOMERVILLE DAM               BURLESON            SOMT2        13.97
+30.34  -96.53
+
+1.6 E LAKE JACKSON           BRAZORIA            TX-BRZ-3     13.94
+29.04  -95.42
+
+2 W DANEVANG                 WHARTON             DVGT2        13.71
+29.05  -96.23
+
+5.10 NW TRINITY              TRINITY             TX-TT-3      13.67
+30.99  -95.44
+
+1.0 NW EL CAMPO              WHARTON             TX-WH-4      13.22
+29.20  -96.29
+
+2.70 NW EL CAMPO             WHARTON             TX-WH-11     13.20
+29.22  -96.31
+
+1.70 NNW COLLEGE STATION     BRAZOS              TX-BZS-9     12.29
+30.62  -96.33
+
+1.50 W GANADO                JACKSON             TX-JK-5      11.51
+29.04  -96.54
+
+8343 N HIGH ISLAND           GALVESTON                        10.99
+28.99   95.98
+
+2 W DANEVANG                 WHARTON             412266       10.80
+29.05  -96.23
+
+MADISONVILLE                 MADISON             MSVT2         8.95
+30.95  -95.91
+
+8101 N CORRIGAN              HOUSTON                           7.96
+31.08   95.70
+
+2 ESE PALACIOS MUNICIPAL     MATAGORDA           PSX           7.84
+28.70  -96.20
+
+1 SSE CROCKETT               HOUSTON             CKTT2         5.45
+31.30  -95.45
+
+1.80 NNE CROCKETT            HOUSTON             TX-HST-3      4.62
+31.34  -95.44
