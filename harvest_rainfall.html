@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Harvest the Harris County Flood Warning System</title>
+    
+
+    <script type="text/javascript">
+        function loadDoc() {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("demo").innerHTML = this.responseText;
+                }
+            };
+            xhttp.open("GET", "https://www.harriscountyfws.org/Home/GetSiteHistoricRainfall?regionId=3&regionId=4&regionId=10&regionId=1&regionId=14&regionId=18&regionId=19&regionId=20&endDate=8%2F27%2F2017+10%3A55%3A00+AM&interval=60&unit=mi&dt=1510351686483", true);
+            xhttp.send();
+        }
+
+    </script>
+
+</head>
+<body>
+    <div id="demo">
+        <button type="button" onclick="loadDoc()">REAP</button>
+    </div>
+</body>
+</html>
